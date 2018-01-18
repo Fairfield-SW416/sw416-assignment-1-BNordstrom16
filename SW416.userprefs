@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2A289375-87E0-4844-8C33-8925BD0AD0A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SW416 Status">
+    <Files>
+      <File FileName="SW416/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="SW416/Services/CloudDataStore.cs" Line="21" Column="13" />
+      <File FileName="SW416/Services/IDataStore.cs" Line="15" Column="1" />
+      <File FileName="SW416/Services/MockDataStore.cs" Line="8" Column="18" />
+      <File FileName="SW416/ViewModels/AboutViewModel.cs" Line="1" Column="1" />
+      <File FileName="SW416/ViewModels/BaseViewModel.cs" Line="12" Column="29" />
+      <File FileName="SW416/App.cs" Line="13" Column="68" />
+      <File FileName="Droid/Activities/AddItemActivity.cs" Line="46" Column="1" />
+      <File FileName="SW416/Services/SQLiteDataStore.cs" Line="35" Column="9" />
+      <File FileName="SW416 Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kootsookosp/Projects/SW416/Droid/Activities/AddItemActivity.cs" relfile="Droid/Activities/AddItemActivity.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SW416.Droid PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.SW416.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.37db104537599b25d527c125a9c5f8f26813274f">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.SW416.iOS>
+</Properties>

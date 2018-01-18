@@ -1,0 +1,23 @@
+Function=xamarin_timezone_get_data
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=CreateZStream
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/System.dll
+Function=UIApplicationMain
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/kootsookosp/Projects/SW416/iOS/obj/iPhone/Debug/device-builds/iphone8.1-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
